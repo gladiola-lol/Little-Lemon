@@ -1,0 +1,11 @@
+# Virtual environments
+little-lemon/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Django
+.env
